@@ -1,0 +1,18 @@
+{
+    "Shallow_KAN": {
+        "t_diabetes": 0.37,
+        "t_prediabetes": 0.28
+    },
+    "Deep_KAN": {
+        "t_diabetes": 0.4,
+        "t_prediabetes": 0.28
+    },
+    "Shallow_MLP": {
+        "t_diabetes": 0.41,
+        "t_prediabetes": 0.27
+    },
+    "Deep_MLP": {
+        "t_diabetes": 0.4,
+        "t_prediabetes": 0.27
+    }
+}
